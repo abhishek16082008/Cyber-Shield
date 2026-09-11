@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment / secrets — never commit
+.env
+
+# Local SQLite database
+*.db

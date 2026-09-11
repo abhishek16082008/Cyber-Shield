@@ -1,0 +1,15 @@
+From: "PayPal Security" <alerts@secure-paypal-verify.com>
+To: you@example.com
+Subject: Urgent: Your account will be suspended within 24 hours
+Date: Fri, 5 Sep 2026 09:14:22 +0000
+Received: from mail.secure-paypal-verify.com ([185.220.101.5]) by mx.example.com; spf=fail dkim=fail dmarc=fail
+Content-Type: text/html
+
+<html><body>
+<p>Dear Customer,</p>
+<p><b>Urgent action required.</b> Your account will be suspended within 24 hours
+due to unusual activity. You must verify now to avoid permanent closure.</p>
+<p>Please <a href="http://185.220.101.5/login">https://www.paypal.com/verify</a>
+and confirm your identity and update your credentials immediately.</p>
+<p>Failure to act now will result in account suspension.</p>
+</body></html>

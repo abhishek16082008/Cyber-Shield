@@ -1,0 +1,12 @@
+From: "AurixCyber News" <news@aurixcyber.com>
+To: you@example.com
+Subject: Your monthly security digest
+Date: Fri, 5 Sep 2026 08:00:00 +0000
+Received: from mail.aurixcyber.com ([198.51.100.20]) by mx.example.com; spf=pass dkim=pass dmarc=pass
+Content-Type: text/html
+
+<html><body>
+<p>Hi there,</p>
+<p>Here are this month's security tips and product updates. No action is needed.</p>
+<p>Read more on our website. Thanks for being a subscriber!</p>
+</body></html>

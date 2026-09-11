@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+  </defs>
+  <!-- dark rounded background so the icon reads on any tab color -->
+  <rect width="64" height="64" rx="14" fill="#0b0f14"/>
+  <!-- shield -->
+  <path d="M32 8 L52 16 V31 C52 43 43 51 32 55 C21 51 12 43 12 31 V16 Z"
+        fill="url(#g)" opacity="0.25" stroke="#38bdf8" stroke-width="2.5"/>
+  <!-- envelope -->
+  <g transform="translate(21 26)" fill="none" stroke="#e0f2fe" stroke-width="2.5" stroke-linejoin="round">
+    <rect x="0" y="0" width="22" height="15" rx="2"/>
+    <path d="M0 2 L11 10 L22 2"/>
+  </g>
+</svg>

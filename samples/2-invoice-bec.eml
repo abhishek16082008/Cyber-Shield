@@ -1,0 +1,14 @@
+From: "Accounts Payable" <billing@vendor-portal.co>
+To: finance@example.com
+Subject: Invoice #4471 - payment required
+Date: Fri, 5 Sep 2026 11:02:10 +0000
+Received: from mail.vendor-portal.co ([45.61.140.2]) by mx.example.com; spf=pass dkim=pass dmarc=fail
+Content-Type: text/html
+
+<html><body>
+<p>Hello,</p>
+<p>Please find attached invoice #4471. Kindly process the payment via
+wire transfer to the updated bank details below before end of day.</p>
+<p>New IBAN: DE89 3704 0044 0532 0130 00</p>
+<p>Regards,<br>Accounts Payable</p>
+</body></html>
